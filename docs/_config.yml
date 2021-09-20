@@ -1,14 +1,49 @@
 ---
 version: 4.2.0
-name: Jekyll • Simple, blog-aware, static sites
+name: Julia Ottolino • Simple, blog-aware, static sites
 description: Transform your plain text into static websites and blogs
 url: https://jekyllrb.com
 repository: https://github.com/jekyll/jekyll
 timezone: America/Los_Angeles
+
+url-pretty: "WeHave2Cents.com"
+LinkedIn: 
+  username: Julia-Ottolino
+github:
+  username: JuliaOttolino
 twitter:
-  username: jekyllrb
+  username: Ott01love
+share-links-active:
+  twitter: true
+  linkedin: true
+
+exceprt-length: 50
+
+#--colors/background image--#
+
+navbar-col: "#050505"
+navbar-text: "#aecc93"
+page-col: "#0f1410"
+text-col: "#aecc93"
+link-col: "#20572b"
+hover-col: "#10e83b"
+footer-text-col: "#aecc93"
+footer-link-col: "#20572b"
+
+#--or set navbar/footer/page-background to image--#
+
+#navbar-img:
+#footer-img:
+#page-img:
+
 logo: "/img/logo-2x.png"
 google_analytics_id: UA-50755011-1
+#----Google Analytics gtag.js ID to track website using gtag
+#gtag:
+#----Google Analytics ID to track google Analytics
+#google_analytics:
+#----Google Tag Manager ID
+#gtm: ""
 google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
 cloudinary_url: https://res.cloudinary.com/jekyll/image/upload/f_auto,q_auto,w_404
 collections:
